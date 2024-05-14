@@ -1,5 +1,23 @@
 # edama.lk
-SALE AND BUY LANDS
+SELL AND BUY LANDS
+
+## Overview
+
+Welcome to edama.lk – The premier platform for seamless land transactions. This robust web app is, built with HTML, CSS, and JavaScript, offers a sophisticated interface for navigating real estate effortlessly. 🌐
+
+## Key Features
+
+- **Advanced Search:** Pinpoint the perfect land parcel with intelligent search and filtering tools. 🔍
+- **Immersive Listings:** Explore curated land properties with captivating visuals and comprehensive details. 🏡
+- **Personalized Profiles:** Enhance the trading journey with saved favorites. 👤
+- **Responsive Design:** Enjoy a seamless browsing experience across devices. 📱
+
+Every contribution, big or small, makes a difference!
+
+### 💡 Share Your Ideas
+Have a brilliant idea or a suggestion for improvement? Don't hesitate to open an issue or to reach out.
+
+
 ![Screenshot 2023-10-31 123722](https://github.com/pasindu-2002/edma.lk/assets/87941322/d2a15122-a59c-4ac0-ba95-2b11894e792f)
 ![Screenshot 2023-10-31 123739](https://github.com/pasindu-2002/edma.lk/assets/87941322/b972636c-12c6-4c58-b9a5-91184b496d75)
 ![Screenshot 2023-10-31 123751](https://github.com/pasindu-2002/edma.lk/assets/87941322/b98d3095-d10d-45b0-9d3c-c3023c553369)
